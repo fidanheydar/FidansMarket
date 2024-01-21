@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Fidan'sMarket\Fidan'sMarket\obj\Debug\net6.0\Fidan'sStore.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Fidan'sMarket\Fidan'sMarket\obj\Debug\net6.0\Fidan'sStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Fidan'sMarket\Fidan'sMarket\obj\Debug\net6.0\Fidan'sStore.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Fidan'sMarket\Fidan'sMarket\obj\Debug\net6.0\Fidan'sStore.AssemblyInfo.cs
+C:\Users\HP\Desktop\Fidan'sMarket\Fidan'sMarket\obj\Debug\net6.0\Fidan'sStore.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Fidan'sMarket\Fidan'sMarket\bin\Debug\net6.0\Fidan'sStore.exe
+C:\Users\HP\Desktop\Fidan'sMarket\Fidan'sMarket\bin\Debug\net6.0\Fidan'sStore.deps.json
+C:\Users\HP\Desktop\Fidan'sMarket\Fidan'sMarket\bin\Debug\net6.0\Fidan'sStore.runtimeconfig.json
+C:\Users\HP\Desktop\Fidan'sMarket\Fidan'sMarket\bin\Debug\net6.0\Fidan'sStore.dll
+C:\Users\HP\Desktop\Fidan'sMarket\Fidan'sMarket\bin\Debug\net6.0\Fidan'sStore.pdb
+C:\Users\HP\Desktop\Fidan'sMarket\Fidan'sMarket\obj\Debug\net6.0\Fidan'sStore.dll
+C:\Users\HP\Desktop\Fidan'sMarket\Fidan'sMarket\obj\Debug\net6.0\refint\Fidan'sStore.dll
+C:\Users\HP\Desktop\Fidan'sMarket\Fidan'sMarket\obj\Debug\net6.0\Fidan'sStore.pdb
+C:\Users\HP\Desktop\Fidan'sMarket\Fidan'sMarket\obj\Debug\net6.0\Fidan'sStore.genruntimeconfig.cache
+C:\Users\HP\Desktop\Fidan'sMarket\Fidan'sMarket\obj\Debug\net6.0\ref\Fidan'sStore.dll
